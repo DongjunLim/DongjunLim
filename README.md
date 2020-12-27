@@ -6,6 +6,7 @@
 - ⚡️  2021 Goals: My goal is to post 10 articles on [my blog](https://medium.com/@joel.lim).
 
 <br>
+
 ### Github Stats
 <p align="left">
 <img src="https://github-readme-stats.dongjunlim.vercel.app/api?username=DongjunLim&count_private=true&show_icons=true" width="440"/> 
