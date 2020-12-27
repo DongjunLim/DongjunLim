@@ -1,8 +1,17 @@
-### Hi there 👋
-#### I'm a Backend engineer 👨🏻‍💻
-[![Dongjun's github stats](https://github-readme-stats.vercel.app/api?username=DongjunLim&count_private=true&show_icons=true&theme=dracula)](https://github.com/DongjunLim/github-readme-stats)
-<br>
+### Hi there, I'm dongjun Lim - aka Joel 👋 
+---
+## I'm a Junior Backend engineer 👨🏻‍💻
+- 🔭  I’m currently working on [Buzzvil](https://www.buzzvil.com/ko/main)
+- 📚  I’m currently learning DDD, Clean Architecture, Kafka
+- ⚡️  2021 Goals: My goal is to post 10 articles on my blog.
 
+<br>
+### Github Stats
+<p align="left">
+<img src="https://github-readme-stats.dongjunlim.vercel.app/api?username=DongjunLim&count_private=true&show_icons=true" width="440"/> 
+<img src="https://github-readme-stats.dongjunlim.vercel.app/api/top-langs/?username=DongjunLim&hide=css,swift&layout=compact&langs_count=8" alt="languages" height="173">
+</p>
+<br>
 
 ### Skills
 ![python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -11,7 +20,7 @@
 ![aws](https://img.shields.io/badge/AWS-gray?logo=Amazon-AWS&logoColor=white)
 ![travis-ci](https://img.shields.io/badge/Travis--CI-3EAAAF?logo=Travis-CI&logoColor=white)
 
-
+<br>
 ### Social
 [![https://medium.com/@joel.lim](https://img.shields.io/badge/blog-gray?logo=medium)](https://medium.com/@joel.lim)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongjun-lim-0441a61b4)
