@@ -9,9 +9,10 @@
 
 ### Github Stats
 <p align="left">
-<img src="https://github-readme-stats.dongjunlim.vercel.app/api?username=DongjunLim&count_private=true&show_icons=true" width="440"/> 
+<img src="https://github-readme-stats.dongjunlim.vercel.app/api?username=DongjunLim&count_private=true&show_icons=true" width="439"/> 
 <img src="https://github-readme-stats.dongjunlim.vercel.app/api/top-langs/?username=DongjunLim&hide=css,swift&layout=compact&langs_count=8" alt="languages" height="173">
 </p>
+
 <br>
 
 ### Skills
