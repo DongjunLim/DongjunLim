@@ -13,16 +13,12 @@
 <img src="https://github-readme-stats.dongjunlim.vercel.app/api/top-langs/?username=DongjunLim&theme=buefy&hide=css,swift&layout=compact&langs_count=8" alt="languages" height="173">
 </p>
 
-<br>
-
 ### Skills
 ![python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-gray?logo=Amazon-AWS&logoColor=white)
 ![travis-ci](https://img.shields.io/badge/Travis--CI-3EAAAF?logo=Travis-CI&logoColor=white)
-
-<br>
 
 ### Social
 [![https://medium.com/@joel.lim](https://img.shields.io/badge/blog-gray?logo=medium)](https://medium.com/@joel.lim)
