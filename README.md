@@ -1,4 +1,4 @@
-### Hi there, I'm dongjun Lim - aka Joel 👋 
+### Hi there, I'm dongjun Lim 👋 
 ---
 ## I'm a Junior Backend engineer 👨🏻‍💻
 - 🔭  I’m currently working on [Buzzvil](https://www.buzzvil.com/ko/main)
